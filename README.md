@@ -15,8 +15,8 @@
 - HTML/CSS
 
 ## Projects
-- VroomGo (car-rental-system) : Car Rental
-- Nurin Receiptify (personal-web) : Personal Web
+- [VroomGo] (car-rental-system) : Car Rental
+- [Nurin Receiptify] (personal-web) : Personal Web
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/fadhlinajufri
