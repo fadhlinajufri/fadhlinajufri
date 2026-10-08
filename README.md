@@ -1,6 +1,6 @@
 # Hi, I'm Nurin Fadhlina.
 
- Computer Science student at UiTM interested in software engineering and AI.
+ I’m a Computer Science student at UiTM Shah Alam interested in software engineering, artificial intelligence and building practical software solutions.
 
 ## About me
 - Studying: Computer Science, UiTM Shah Alam
@@ -8,7 +8,11 @@
 - My FYP area: Computer Vision
 
 ## Skills and tools
-C, C++, Java, Python, SQL
+- C
+- C++
+- Java
+- Python
+- HTML/CSS
 
 ## Projects
 - [Project name](link-to-your-repository): one sentence about it
