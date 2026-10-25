@@ -17,6 +17,7 @@
 ## Projects
 - [VroomGo] (https://github.com/fadhlinajufri/car-rental-system) : Car Rental
 - [Nurin Receiptify] (https://github.com/fadhlinajufri/personal-web) : Personal Web
+- [Morse Code-Based Eye Blink Learning System] (https://github.com/fadhlinajufri/morse-code-learning) : Morse Code Learning System
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/fadhlinajufri
